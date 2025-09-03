@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "meu-projeto-backend/ \r ├── package.json (criado automaticamente) \r ├── package-lock.json (criado automaticamente) \r ├── node_modules/ (criado automaticamente) \r ├── app.js (você vai criar) \r ├── database.js (você vai criar) \r ├── meuapp.db (criado automaticamente pelo SQLite) \r └── README.md (opcional)",
   "dependencies": {
     "express": "^5.1.0",
     "sqlite3": "^5.1.7"
